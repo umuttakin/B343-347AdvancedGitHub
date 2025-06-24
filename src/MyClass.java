@@ -18,4 +18,8 @@ public class MyClass {
     //Techpro branch, version t2
     public String string6 = "Bu artik daha da  baska bir string'dir.";
 
+    //Version v5
+    public String string7 = "Tarabya'da villasi, cafcafli arabasi";
+
+
 }
