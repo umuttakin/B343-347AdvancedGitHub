@@ -15,11 +15,16 @@ public class MyClass {
     //Techpro branch, version t2
     public String string5 = "Bu techpro branc'inde olusturulmus baska bir string'dir.";
 
-    //Techpro branch, version t2
+    //Version 4
     public String string6 = "Bu artik daha da  baska bir string'dir.";
 
+    //Techpro branchi version t3
+    public String string7 = "Hangi string oldugunun hesabini yapamadim.";
+
+    //Techpro branch, version t4
+    public String  string8 = "Dar geldi sana Ankara.";
     //Version v5
-    public String string7 = "Tarabya'da villasi, cafcafli arabasi";
+    public String string9 = "Tarabya'da villasi, cafcafli arabasi";
 
 
 }
