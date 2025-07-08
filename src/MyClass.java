@@ -26,5 +26,7 @@ public class MyClass {
     //Version v5
     public String string9 = "Tarabya'da villasi, cafcafli arabasi";
 
+    public String string10 ="Affet beni aksam ustu";
+
 
 }
