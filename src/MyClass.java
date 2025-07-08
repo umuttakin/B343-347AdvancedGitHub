@@ -28,6 +28,8 @@ public class MyClass {
 
     public String string10 ="Affet beni aksam ustu";
 
+    //Conflict example, t6
+    public String string11 = "Bu aksam olurum beni kimse tutamaz";
     //Conflict example, v7
-    public String string11 = "Eski koprunun altinda";
+    public String string12 = "Eski koprunun altinda";
 }
